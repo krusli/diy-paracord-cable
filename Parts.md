@@ -5,9 +5,9 @@
 - USB Type A Male connector w/ cover
   - I got this: https://www.aliexpress.com/item/10pcs-lot-USB-Male-4Pin-A-Type-Plug-Connector-with-Plastic-Cover-for-Data-Connection-Interface/32791876975.html, not sure if it will work
 - 2:1 Heatshrink (any kind, a variety of sizes is great to have on hand)
-  - `TODO`
+  - https://www.ebay.com.au/itm/5-Size-Black-2-1-Heatshrink-Tube-Tubing-Sleeving-Heat-Shrink-2-4-6-8-10mm-5M-A/232716695536 (A$8.12 for a 5-set: 2, 4, 6, 8, 10mm; 5M)
 - 4:1 Heatshrink (8mm before shrinking, 2.0mm after. 12->3 should work as well and give a slightly larger stress relief)
-  - `TODO`
+  - https://www.ebay.com.au/itm/4mm-32mm-4-1-Black-Heat-Shrink-Heatshrink-Glue-Lined-Tube-Tubing-Wire-Sleeving/222515135380
 - JST PH 2.0 5-pin connector (you can a donor cable from an old mouse, CAN VARY DEPENDING ON MOUSE!)
   - https://www.ebay.com/itm/JST-2-0mm-PH-5-Pin-Male-Female-Connector-with-wire-length-300mm-x-10-Sets-/171361716337: 10 sets JST 2.0 PH 5-pin (pigtail). Pigtail means it already has cables coming out of it
   - what you want to do is splice the pigtail cables with the Striveday/whatever cables you're sleeving inside the paracord
