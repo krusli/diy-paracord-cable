@@ -28,3 +28,135 @@ IV | 750 lb (340 kg) | 30% |	165 ft (50 m; max. 9.02 g/m) |	11 	| 32/1, 36/1, or
 
 ### Mice cable pin arragngement and internal connector size database
 http://www.overclock.net/forum/375-mice/1588984-mice-cable-pin-arrangement-internal-connector-size-database.html
+
+View for the pin arrangment: you look at the 5 plastic snaps and the cables coming down out.
+
+```
+Standard plug JST 2.0:
+
+Nixeus
+shield white green black red
+Revel
+
+Zowie
+shield black green white red
+all Zowie mice
+
+Roccat
+shield black green white red
+Kone Pure Optical / Military
+
+shield black white green red
+Kone Pure Owl-Eye, Kone Pure EMP
+
+red black green white shield
+Kone Aimo
+
+Logitech
+green white red black shield
+G203, G102, G Pro, G100s, G300s, G302, G303, G402, G403, G502, G400, MX518, MX500, MX310, MX300, G1, G3
+
+red white green black shield
+Logitech G600
+
+Asus
+red white green black shield
+ROG Sica
+
+Ninox
+red black shield green white
+Venator
+
+shield black green white red
+Aurora
+
+Razer
+shield black white green red
+Deathadder, Deathadder Chroma
+
+shield black green white red
+Lancehead TE, Basilisk, DeathAdder Elite, Abyssus 2014, Razer Pro Solutions v1.6 (probably DiamondBack too)
+
+green white red black shield
+Naga Molten, Naga Hex, Naga 2012, Lachsis
+
+white green black red shield
+Imperator
+
+Steelseries
+shield black white green red
+Sensei
+
+shield black green white red
+Rival 100
+
+green white black red shield
+Kana2, Kana?, Raw?
+
+red white green black shield
+Kinzu
+
+red green white black shield
+Xai
+
+Microsoft
+shield black green white red
+IntelliMouse Explorer 3.0, Intellimouse Optical 1.1
+
+red white green black shield
+Microsoft Classic Intellimouse (2017), WMO - the connectors are often soldered to the PCB
+
+Mionix
+shield black white green red
+Avior, Castor, Naos
+
+Cooler Master
+red white green black shield
+CM Mastermouse S
+
+shield black green white red
+CM MasterMouse MM520/MM530
+
+red green white black shield
+CM Storm Recon
+
+Genius
+shield white green black red
+Genius Maurus GX
+
+Dreammachines
+shield black green white red
+DM3 Mini
+
+red black shield green white
+DM1 Pro
+
+Finalmouse
+red black shield green white
+Ultralight, Scream One
+
+Non standard plug JST 1.5:
+
+Logitech
+white green red black shield
+G500
+
+Corsair
+red black white green shield
+Scimitar
+
+Non standard plug JST 1.25:
+
+Steelseries
+red white green black shield
+Rival, Rival 300, Rival 310, Sensei 310
+
+MadCatz
+shield black green white red
+R.A.T series
+(older cables might have a blue instead of the red cable)
+
+Non standard plug JST [size smaller than 1.25]:
+green white red black shield
+G9, G9x
+```
