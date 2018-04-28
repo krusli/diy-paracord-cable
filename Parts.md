@@ -29,6 +29,14 @@ IV | 750 lb (340 kg) | 30% |	165 ft (50 m; max. 9.02 g/m) |	11 	| 32/1, 36/1, or
 ### Mice cable pin arragngement and internal connector size database
 http://www.overclock.net/forum/375-mice/1588984-mice-cable-pin-arrangement-internal-connector-size-database.html
 
+The internal plug contains 5 cables with crimps. This cables connects your mice with the USB port.
+- black - ground
+- green - data+
+- white - data -
+- red - 5volt
+- thick black - shield
+
+
 View for the pin arrangment: you look at the 5 plastic snaps and the cables coming down out.
 
 ```
