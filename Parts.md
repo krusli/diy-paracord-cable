@@ -18,11 +18,11 @@
 
 ### Paracord types (probably doesn't matter)
 Type | Minimum strength | Minimum elongation | Minimum length per pound | Core yarns | Sheath structure
--|-
+-|-|-|-|-|-
 I | 95 lb (43 kg) | 30% |	950 ft (290 m; max. 1.57 g/m) |	1 	| 16/1
-IA | 100 lb (45 kg) | 30% |	1050 ft (320 m; max. 1.42 g/m) |	<no core> 	| 16/1
+IA | 100 lb (45 kg) | 30% |	1050 ft (320 m; max. 1.42 g/m) |	\<no core> 	| 16/1
 II | 400 lb (181 kg) | 30% |	265 ft (81 m; max. 5.62 g/m) |	4 to 7 	| 32/1 or 36/1
-IIA | 225 lb (102 kg) | 30% |	495 ft (151 m; max. 3.00 g/m) |	<no core> 	| 32/1 or 36/1
+IIA | 225 lb (102 kg) | 30% |	495 ft (151 m; max. 3.00 g/m) |	\<no core> 	| 32/1 or 36/1
 III | 550 lb (249 kg) | 30% |	225 ft (69 m; max. 6.61 g/m) |	7 to 9 	| 32/1 or 36/1
 IV | 750 lb (340 kg) | 30% |	165 ft (50 m; max. 9.02 g/m) |	11 	| 32/1, 36/1, or 44/1
 
