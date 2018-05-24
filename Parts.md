@@ -16,6 +16,9 @@
 - Replacement mouse feet (recommended)
   - `TODO`
 
+## Cable building guide
+https://www.reddit.com/r/MouseReview/comments/7xtnyi/diy_how_to_make_your_own_paracord_cable_for_any/
+
 ### Paracord types (probably doesn't matter)
 Type | Minimum strength | Minimum elongation | Minimum length per pound | Core yarns | Sheath structure
 -|-|-|-|-|-
