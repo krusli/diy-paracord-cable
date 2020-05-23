@@ -45,20 +45,41 @@ View for the pin arrangment: you look at the 5 plastic snaps and the cables comi
 ```
 Standard plug JST 2.0:
 
+G-Wolves
+shield white green black red
+Skoll, 302
+
+
+Endgame
+shield black white green red
+XM1
+
+Glorious
+shield black green white red
+Model O
+
 Nixeus
 shield white green black red
-Revel
+Revel Fit, Revel
 
 Zowie
 shield black green white red
 all Zowie mice
+
+Corsair
+shield black green white red
+Harpoon RGB
+
+TT eSPORTS
+shield black green white red
+Ventus R optical
 
 Roccat
 shield black green white red
 Kone Pure Optical / Military
 
 shield black white green red
-Kone Pure Owl-Eye, Kone Pure EMP
+Nyth, Kone Pure Owl-Eye, Kone Pure EMP
 
 red black green white shield
 Kone Aimo
@@ -83,10 +104,10 @@ Aurora
 
 Razer
 shield black white green red
-Deathadder, Deathadder Chroma
+Deathadder, Deathadder Chroma, Naga Trinity
 
 shield black green white red
-Lancehead TE, Basilisk, DeathAdder Elite, Abyssus 2014, Razer Pro Solutions v1.6 (probably DiamondBack too)
+Mamba TE, Lancehead TE, Basilisk, DeathAdder Elite, Abyssus 2014, Razer Pro Solutions v1.6 (probably DiamondBack too)
 
 green white red black shield
 Naga Molten, Naga Hex, Naga 2012, Lachsis
@@ -95,11 +116,14 @@ white green black red shield
 Imperator
 
 Steelseries
+red black shield green white
+Rival 106
+
 shield black white green red
 Sensei
 
 shield black green white red
-Rival 100
+Sensei 10, Rival 100, Rival 110, [RAW] Frost Blue edition
 
 green white black red shield
 Kana2, Kana?, Raw?
@@ -112,14 +136,14 @@ Xai
 
 Microsoft
 shield black green white red
-IntelliMouse Explorer 3.0, Intellimouse Optical 1.1
+Intellimouse Optical 1.1, IntelliMouse Explorer 3.0 (MLT04), WMO (if the connector is removable)
 
 red white green black shield
-Microsoft Classic Intellimouse (2017), WMO - the connectors are often soldered to the PCB
+IntelliMouse Explorer Pro (3389), Microsoft Classic Intellimouse (2017)
 
 Mionix
 shield black white green red
-Avior, Castor, Naos
+Avior, Castor, Naos, Naos QG
 
 Cooler Master
 red white green black shield
@@ -144,23 +168,54 @@ DM1 Pro
 
 Finalmouse
 red black shield green white
-Ultralight, Scream One
+UL2, Air58, Ultralight, Scream One
+
+Xtrfy
+white green black red shield
+M1
+
+NKEY
+shield black green white red
+007 mini, G312
+
+Cougar
+red white green black shield
+Revenger S
+
+ABKO HACKER
+shield white green black red
+A660
 
 Non standard plug JST 1.5:
 
-Logitech
-white green red black shield
-G500
+Razer
+red white green black shield
+Viper
 
-Corsair
-red black white green shield
-Scimitar
+Asus
+red white green black shield
+Gladius II Core
+
+Logitech
+green white red black shield
+G500
 
 Non standard plug JST 1.25:
 
+Roccat
+black white green shield red
+Kain Aimo 12x
+
 Steelseries
+red black shield green white
+Rival 106
+
 red white green black shield
 Rival, Rival 300, Rival 310, Sensei 310
+
+Corsair
+red white green black shield
+Scimitar, M65 Pro
 
 MadCatz
 shield black green white red
