@@ -45,6 +45,8 @@ The internal plug contains 5 cables with crimps. This cables connects your mice 
 
 from left to right: Logitech G9(x), Steelseries Rival, Logitech G500, JST 2.0 (nearly all other mice)
 
+G9x: green white red black shield
+
 View for the pin arrangment: you look at the 5 plastic snaps and the cables coming down out.
 
 ```
