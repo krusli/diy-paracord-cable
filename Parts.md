@@ -41,6 +41,10 @@ The internal plug contains 5 cables with crimps. This cables connects your mice 
 
 ![Pin Arrangement](https://www.overclock.net/content/type/61/id/2719213/)
 
+![Pin Arrangmenet 2](https://www.overclock.net/content/type/61/id/2719212/width/350/height/700/flags/LL)
+
+from left to right: Logitech G9(x), Steelseries Rival, Logitech G500, JST 2.0 (nearly all other mice)
+
 View for the pin arrangment: you look at the 5 plastic snaps and the cables coming down out.
 
 ```
