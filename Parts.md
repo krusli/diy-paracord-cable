@@ -39,6 +39,7 @@ The internal plug contains 5 cables with crimps. This cables connects your mice 
 - red - 5volt
 - thick black - shield
 
+![Pin Arrangement](https://www.overclock.net/content/type/61/id/2719213/)
 
 View for the pin arrangment: you look at the 5 plastic snaps and the cables coming down out.
 
